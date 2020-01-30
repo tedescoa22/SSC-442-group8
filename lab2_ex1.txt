@@ -1,0 +1,33 @@
+ID: this variable represents the identification number for each house, the values it can take are from 1 to
+Lot Area: the area of the house, the values that it takes can be an value greater than 0
+Lot Frontage: The size of the front of the house, the values that it can take are any value greater than 0
+Overall Quality: The quality of the house, given on a scale of 1 to 10
+Overall Condition: The Condition that the house is in on a scale of 1 to 10
+Year Built: The year that the house was built
+Year Remodeling added: The year the house had Remodeling done
+Basement Square footage: The size of the basement in terms of square footage, a range of values with a minimum of 0
+First floor square footage: The size of the first floor in terms of square footage, a range of values with a minimum of 0
+Second Floor square footage: The size of the first floor in terms of square footage, a range of values with a minimum of 0
+Low quality finish square footage: The square footage of the areas of the house with a low quality finish, a range of values with a minimum of 0
+General Living Area: the size of the general living area in the house, range of values with a minimum of 0
+Basement Full Bath: The number of full bathrooms in the basement of the house
+Basement half bath: The number of half bathrooms in the basement
+Full Bath: number of full bath rooms in the house
+Half Bath: number of half bath rooms in the house
+Bedrooms above ground: number of bedrooms above ground
+Kitchens above ground: number of kitchens above ground
+Total rooms above ground: number of rooms above ground
+Fireplaces: The number of fireplaces in the house
+Garage year built: the year that the garage was Built
+Garage Cars: The number of cars that can be fit in the garage
+Garage Area: the area of the Garage
+Wood deck square footage: the square footage of the wooden deck of the house if it has one, else 0
+Open Porch square footage: the square footage of the open porch if the house has one, else 0
+Closed Porch square footage: the square footage of the closed porch if the house has one, else 0
+Screen porch: the area of a screen porch if the house has one, else 0
+Pool Area: area of the pool if the house has one, else 0
+Miscellaneous Value: value attributed to attributes that are not accounted for by the other variables
+Month sold: what month the house was sold, given a value from 1 to 12 corresponding to their respective Month
+Year Sold: the year that the house was Sold
+Sale Price: the price of the house that it was sold at
+Garage Type: ist of garage types and if it has that type, a value of 1 is given else 0
